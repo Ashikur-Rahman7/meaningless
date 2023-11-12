@@ -111,7 +111,7 @@ int notleapyear(int month)
         return 334 ;   
 }
 
-
+//here for me copy paste was better than writing a function and call them
 void final(int start , int month , int year)
 {
     if(month == 1 || month == 3 || month == 5 || month == 7 || month == 8 || month == 10 || month == 12)
