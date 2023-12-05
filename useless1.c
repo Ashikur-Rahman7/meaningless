@@ -1,4 +1,4 @@
-//a very simple programe to check the occurence of the letters
+//a very simple programe to check the occurence of the letters and represent them as a silly graph
 #include <stdio.h>
 #include <string.h>
 void storing(char *) ;
